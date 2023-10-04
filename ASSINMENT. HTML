@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+        <center><img   src="https://www.tops-int.com/images/TOPS-logo.png" alt="100px"> </center>
+        <h1> <input type="radio" name="" id=""> Create below example using only HTML tags without css</h1>
+        <table border="1" ;  >
+         <tr>
+            <td>  <a  href="http://"> home</a> </td>
+            <td> <a href="http://"> about </a> </td>
+            <td> <a href="http://">  contact</a> </td>
+            <td> <a href="http://"> help</a> </td> 
+            <td> <a href="http://"> store</a> </td>
+            <td bgcolor="red">  <a href="http://">download <br>app </a> </td>
+ 
+        </tr>
+
+    
+        <tr>
+            <td colspan="3"> <img src="c:\Users\Admin\Downloads\download.jpg" height="500" width="400"></td>
+           
+            <!-- <td></td>
+            <td></td> -->
+            <td colspan="3"> <img src="c:\Users\Admin\Downloads\6-58.jpg" height="500" width="400"></td>
+            <!-- <td></td>
+            <td></td> --> 
+        </tr>
+         <tr>
+            <td   align="center" bgcolor="pink" colspan="6"><b>contect  in page</b> </td>
+            <!-- <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td> -->
+         </tr>
+          <tr>
+
+            <td colspan="6"align="center"; bgcolor="yellow"><b>contact us</b> </td>
+            <!-- <td></td>
+            <td></td
+            <td></td>
+            <td></td>
+            <td></td> -->
+          </tr>
+    
+      <tr>
+        <td colspan="3" align="center" bgcolor="sky blue"> first name<input type="text" name="" id=""></td>
+        <!-- <td></td>
+        <td></td> -->
+        <td colspan="3" align="center" bgcolor="sky blue"> last name  <input type="text" name="" id=""></td>
+        <!-- <td></td>
+        <td></td> -->
+      </tr>
+      <tr>
+        <td colspan="3" align="center" bgcolor="sky blue">Email id <input type="email" name="" id=""></td>
+        <!-- <td></td>
+        <td></td> -->
+        <td colspan="3" align="center"  bgcolor="sky blue"> Phone number <input type="number" name="" id=""></td>
+        <!-- <td></td>
+        <td></td> -->
+      </tr>
+      <tr>
+        <td colspan="3" align="center " bgcolor="sky blue"> city<select name="Ahemdabad" id=""> 
+            <option value="Ahemdabad">Ahemdabad</option>
+            <option value="Vadodara">Vadodara</option>
+            <option value="Surat">Surat</option>
+            <option value="Rajkot">Rajkot</option>
+            <option value="Patan">Patan</option>
+            <option value="Mahesana">Mahesana</option>
+            <option value="Kutchh">Kutchh</option>
+            
+        </select></td>
+        <!-- <td></td>
+        <td></td> -->
+        <td colspan="3" align="center " bgcolor="sky blue">Gender : male <input type="radio" name="bde" id="abc">female <input type="radio" name="bde" id="abc"> </td>
+        <!-- <td></td>
+        <td></td> -->
+      </tr>
+    
+    </tr> <tr>
+    
+      <td colspan="3"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3672.594037004104!2d72.62008417590806!3d23.00195117918834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395e86730af2bca5%3A0xdca4a06a455dad2a!2sShree%20Siddhi%20Vinayak%20Temple!5e0!3m2!1sen!2sin!4v1694521783644!5m2!1sen!2sin" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </td> 
+      <!-- <td></td> -->
+      
+      
+      <td colspan="3"><iframe width="560" height="315" src="https://www.youtube.com/embed/-lOboH38bg8?si=KcDFUZMfF8D9OBA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </tr>
+     
+
+
+
+        </table>
+</table>
+    
+</body>
+</html>
